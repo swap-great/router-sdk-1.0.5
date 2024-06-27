@@ -1570,18 +1570,6 @@
   resolved "https://registry.npmjs.org/@uniswap/lib/-/lib-4.0.1-alpha.tgz"
   integrity sha512-f6UIliwBbRsgVLxIaBANF6w09tYqc6Y/qXdsrbEmXHyFA7ILiKrIwRFXe1yOg8M3cksgVsO9N7yuL2DdCGQKBA==
 
-"@uniswap/sdk-core@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.npmjs.org/@uniswap/sdk-core/-/sdk-core-3.0.1.tgz"
-  integrity sha512-WbeDkhZ9myVR0VnHOdTrb8nHKKkqTFa5uE9RvUbG3eyDt2NWWDwhhqGHwAWJEHG405l30Fa1u3PogHDFsIOQlA==
-  dependencies:
-    "@ethersproject/address" "^5.0.2"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.4"
-    tiny-invariant "^1.1.0"
-    toformat "^2.0.0"
-
 "@uniswap/sdk-core@https://github.com/0xdefi-club/dtx-swap-sdk-core.git":
   version "3.0.1"
   resolved "https://github.com/0xdefi-club/dtx-swap-sdk-core.git#fd00008843c2345bf26cbf4867edcda6a7f54389"
@@ -1611,7 +1599,7 @@
 
 "@uniswap/v2-sdk@https://github.com/swap-great/v2-sdk-3.0.git":
   version "3.0.1"
-  resolved "https://github.com/swap-great/v2-sdk-3.0.git#1c87038c1105f54bab4043512f38ca3e263a57cb"
+  resolved "https://github.com/swap-great/v2-sdk-3.0.git#80050db51ec37b2477d63419c602aabac85260fb"
   dependencies:
     "@ethersproject/address" "^5.0.0"
     "@ethersproject/solidity" "^5.0.0"
@@ -1621,7 +1609,7 @@
 
 "@uniswap/v3-core@1.0.0":
   version "1.0.0"
-  resolved "https://registry.npmjs.org/@uniswap/v3-core/-/v3-core-1.0.0.tgz"
+  resolved "https://registry.yarnpkg.com/@uniswap/v3-core/-/v3-core-1.0.0.tgz#6c24adacc4c25dceee0ba3ca142b35adbd7e359d"
   integrity sha512-kSC4djMGKMHj7sLMYVnn61k9nu+lHjMIxgg9CDQT+s2QYLoA56GbSK9Oxr+qJXzzygbkrmuY6cwgP6cW2JXPFA==
 
 "@uniswap/v3-periphery@1.3.0":
@@ -1650,7 +1638,7 @@
 
 "@uniswap/v3-sdk@https://github.com/swap-great/v3-sdk.git":
   version "3.8.2"
-  resolved "https://github.com/swap-great/v3-sdk.git#6ddabab98738e88a00a2b106fee078c9f3427574"
+  resolved "https://github.com/swap-great/v3-sdk.git#f2dcaec4c8b16416454dbc4fe5a938e3338e3d29"
   dependencies:
     "@ethersproject/abi" "^5.0.12"
     "@ethersproject/solidity" "^5.0.9"

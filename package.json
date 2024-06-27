@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "@ethersproject/abi": "^5.5.0",
-    "@uniswap/sdk-core": "^3.0.1",
+    "@uniswap/sdk-core": "https://github.com/0xdefi-club/dtx-swap-sdk-core.git",
     "@uniswap/swap-router-contracts": "^1.0.0-beta.5",
     "@uniswap/v2-sdk": "https://github.com/swap-great/v2-sdk-3.0.git",
     "@uniswap/v3-sdk": "https://github.com/swap-great/v3-sdk.git"
